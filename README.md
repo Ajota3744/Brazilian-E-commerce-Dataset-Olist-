@@ -70,20 +70,20 @@ olist-ecommerce-analysis/
 
 ---
 
-## Workflow Overview
-### 1. Data Cleaning
+Workflow Overview
+1. Data Cleaning
 
 Preparation of raw data, date conversion, and creation of logistics-related variables such as delivery time, delay days, and on-time delivery status.
 
-### 2. Exploratory Analysis
+2. Exploratory Analysis
 
 Analysis of delivery performance, order status distribution, monthly order trends, and basic sales behavior.
 
-### 3. Business Metrics
+3. Business Metrics
 
 Evaluation of category-level performance, relationship between delays and review scores, and geographic sales concentration.
 
-## 4. Customer Analytics
+4. Customer Analytics
 
 Customer segmentation with RFM analysis and retention evaluation through cohort analysis.
 
