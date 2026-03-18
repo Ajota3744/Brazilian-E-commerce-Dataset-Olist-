@@ -68,9 +68,10 @@ olist-ecommerce-analysis/
 ├── requirements.txt
 └── .gitignore
 
----
+```
 
-Workflow Overview
+## Workflow Overview
+
 1. Data Cleaning
 
 Preparation of raw data, date conversion, and creation of logistics-related variables such as delivery time, delay days, and on-time delivery status.
@@ -86,6 +87,8 @@ Evaluation of category-level performance, relationship between delays and review
 4. Customer Analytics
 
 Customer segmentation with RFM analysis and retention evaluation through cohort analysis.
+
+---
 
 Key Findings
 
